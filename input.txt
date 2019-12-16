@@ -1,0 +1,18 @@
+2
+9
+Tom friends Mike
+Alice friends Jim
+Jim friends Tom
+Samantha friends Sally
+Tom friends Alice
+Alice friends Tom
+Sally friends Samantha
+Jim friends Sally
+Mike friends Alice
+6
+Mickey friends Kelly
+Bob friends Jill
+Jill friends Kelly
+Kelly friends Bob
+Jill friends Mickey
+Kelly friends Jill
